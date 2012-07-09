@@ -65,4 +65,7 @@ This will produce compressed HTML. See [Haml Reference](http://haml.info/docs/ya
 * Report issues/questions/feature requests on the [Github Issue tracker for guard-haml](https://github.com/manufaktor/guard-haml/issues)
 
 Pull requests are welcome.
-Specs are very welcome, make sure you support both ruby 1.8.7 and  ruby 1.9.2.
+Specs are very welcome, make sure you support rubies
+  - 1.8.7
+  - 1.9.2
+  - 1.9.3
